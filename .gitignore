@@ -6,4 +6,5 @@
 !*.zip
 !.gitignore
 !README.md
+!CHANGELOG.md
 !RELEASES.json
