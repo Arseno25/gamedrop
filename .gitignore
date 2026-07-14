@@ -1,0 +1,9 @@
+# Only track release assets — ignore everything else by default
+**
+# Un-ignore release assets
+!*.msi
+!*.exe
+!*.zip
+!.gitignore
+!README.md
+!RELEASES.json
